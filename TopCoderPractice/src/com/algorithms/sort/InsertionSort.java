@@ -18,6 +18,7 @@ public class InsertionSort {
 		arr[current] = arr[swap];
 		arr[swap] = temp;
 	}
+	
 	/**
 	 * @param args
 	 */
